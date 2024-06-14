@@ -3,4 +3,6 @@ I have run twice
 I have run trice
 I have run fourth
 I have run fifth
+I have run sixth
+I have run seventh
 
